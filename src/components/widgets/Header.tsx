@@ -85,9 +85,9 @@ export default component$(() => {
             <div class="hidden items-center md:flex">
               <ToggleTheme />
               <a
-                href="https://github.com/onwidget/qwind"
+                href="https://github.com/HamzahSCIT"
                 class="inline-block text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5"
-                aria-label="Qwind Github"
+                aria-label="Hamzah Saeed Github"
               >
                 <IconGithub />
               </a>
